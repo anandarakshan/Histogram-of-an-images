@@ -78,13 +78,14 @@ plt.subplot(121); plt.hist(img.ravel(),256,range = [0, 256]); plt.title('Origina
 plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Histogram Equalized')
 ```
 ## Output:
-![alt text](<Screenshot 2025-09-12 174724.png>)
-![alt text](<Screenshot 2025-09-12 174821.png>)
-![alt text](<Screenshot 2025-09-12 174842.png>)
-![alt text](<Screenshot 2025-09-12 174903.png>)
-![alt text](<Screenshot 2025-09-12 174928.png>)
-![alt text](<Screenshot 2025-09-12 174953.png>)
-![alt text](<Screenshot 2025-09-12 175018.png>)
-![alt text](<Screenshot 2025-09-12 175041.png>)
+<img width="749" height="481" alt="image" src="https://github.com/user-attachments/assets/77c38ec2-2b0a-4c20-bd51-c40e543c43e8" />
+<img width="736" height="539" alt="image" src="https://github.com/user-attachments/assets/564b2f6e-daa2-4ee3-968d-17678b4871e2" />
+<img width="724" height="529" alt="image" src="https://github.com/user-attachments/assets/59fe7c89-da3e-4c56-b63b-64ca22f602b5" />
+<img width="717" height="486" alt="image" src="https://github.com/user-attachments/assets/3facf81c-e507-422b-a273-abb1524e512f" />
+<img width="725" height="485" alt="image" src="https://github.com/user-attachments/assets/b7b2e313-0363-43ed-b36c-61dd1e58f9f8" />
+<img width="730" height="541" alt="image" src="https://github.com/user-attachments/assets/15ca813a-90aa-41b6-8943-3a7d176237db" />
+<img width="1365" height="437" alt="image" src="https://github.com/user-attachments/assets/1a59d8b7-570d-454f-8178-aae2e3f53bef" />
+<img width="1390" height="698" alt="image" src="https://github.com/user-attachments/assets/b7026c30-bdc4-4b55-adcc-118e792fb779" />
+
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
