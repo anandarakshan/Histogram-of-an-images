@@ -1,4 +1,6 @@
 # Histogram-of-an-images
+## Name: Ananda Rakshan K V
+## Reg.No: 212223230014
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
